@@ -19,5 +19,6 @@ opencv学习笔记
 
     1. 绘制直线 DrawingLine.py
     2. 绘制矩形 DrawingRectangle.py 
+    3. 绘制圆形 DrawingCircle.py   
 
 
