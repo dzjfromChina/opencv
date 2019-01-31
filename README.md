@@ -11,5 +11,6 @@ opencv学习笔记
 视频操作
     1.读取电脑摄像头  CaptureVideofroCamera.py
     2.播放本地视频 PlayingVideoFromFile.py
+    3.录制视频 SavingVideo.py 
 
 
