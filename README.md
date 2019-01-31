@@ -9,5 +9,6 @@ opencv学习笔记
 视频操作
     1.读写结合 ReadAndWrite.py
     2.读取电脑摄像头  CaptureVideofroCamera.py
+    3.播放本地视频 PlayingVideoFromFile.py
 
 
