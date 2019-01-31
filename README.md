@@ -15,4 +15,8 @@ opencv学习笔记
     2.播放本地视频 PlayingVideoFromFile.py
     3.录制视频 SavingVideo.py 
 
+绘图 
+
+    1. 绘制直线 DrawingLine.py
+
 
