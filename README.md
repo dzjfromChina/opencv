@@ -20,6 +20,7 @@ opencv学习笔记
     1. 绘制直线 DrawingLine.py
     2. 绘制矩形 DrawingRectangle.py 
     3. 绘制圆形 DrawingCircle.py 
-    4. 绘制椭圆 DrawingEllipse.py     
+    4. 绘制椭圆 DrawingEllipse.py   
+    5. 绘制多边形 DrawingPolygon.py  
 
 
