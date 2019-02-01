@@ -28,4 +28,8 @@ opencv学习笔记
     1. 双击绘制椭圆 SimpleDemo.py
     2. 鼠标移动绘制矩形和圆形 MoreAdvancedDemo.py
 
+5. 调色板
+    
+    1. 调色板 Trackbar.py
+
 
