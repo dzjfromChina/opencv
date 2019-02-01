@@ -21,6 +21,10 @@ opencv学习笔记
     3. 绘制圆形 DrawingCircle.py 
     4. 绘制椭圆 DrawingEllipse.py   
     5. 绘制多边形 DrawingPolygon.py
-    6. 添加文字到图片 AddingTextToImages.py   
+    6. 添加文字到图片 AddingTextToImages.py  
+
+4. 鼠标作为画笔
+    
+    1. 双击绘制椭圆 SimpleDemo.py
 
 
