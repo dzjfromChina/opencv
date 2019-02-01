@@ -43,6 +43,9 @@ Core Operations
     学习图像的基本操作，如像素编辑，几何变换，代码优化，一些数学工具等。
     
 6. 图像基本操作
+
+    1. 访问和修改的像素值  AccessingAndModifyingPixelValues.py 
+    2.
 7. 算术运算的图像
 8. 性能测量与改进技术
 
