@@ -47,6 +47,7 @@ opencv学习笔记
 
     1. 访问和修改的像素值  AccessingAndModifyingPixelValues.py 
     2. 访问图片属性 AccessingImageProperties.py  
+    3. ROI ImageROI.py
 7. 算术运算的图像
 8. 性能测量与改进技术
 
