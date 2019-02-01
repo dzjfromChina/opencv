@@ -20,7 +20,7 @@ import numpy as np
 # 创建画布
 img = np.zeros((512, 512, 3), np.uint8)
 
-drawing = False  # true if mouse is pressed
+drawing = False  #true if mouse is pressed
 mode = True  # if True, draw rectangle. Press 'm' to toggle to curve
 ix, iy = -1, -1
 

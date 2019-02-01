@@ -21,7 +21,7 @@
 
 import numpy as np
 import cv2 as cv
-# Create a black image
+
 # 生成一个512*512的举证 矩阵的每一个元素是一个3*3的0矩阵
 img = np.zeros((512,512,3), np.uint8)
 

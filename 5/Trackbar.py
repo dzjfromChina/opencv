@@ -35,7 +35,7 @@ def nothing(x):
     pass
 
 
-# Create a black image, a window
+#Create a black image, a window
 img = np.zeros((300,512,3), np.uint8)
 cv2.namedWindow('image')
 

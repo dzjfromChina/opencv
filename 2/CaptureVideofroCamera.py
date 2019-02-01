@@ -6,7 +6,7 @@
 @time: 2019/1/31 15:29                        
 """""""""""""""""""""""""""""""""""""""""""""""
 
-#从摄像机捕捉视频
+#从摄像机捕捉视频！
 
 """
 Often, we have to capture live stream with camera. 
