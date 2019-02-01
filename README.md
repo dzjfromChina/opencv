@@ -3,10 +3,10 @@ opencv学习笔记
 
 官网：https://docs.opencv.org/3.3.0/d6/d00/tutorial_py_root.html
 
-:bangbang:python版本: 3.6  
-:bangbang:opencv版本: 3.4.4.19
+:grey_exclamation:python版本: 3.6  
+:grey_exclamation:opencv版本: 3.4.4.19
 
-<h3>Gui Features in OpenCV  
+<h3>Gui Features in OpenCV</h3>
 
     如何显示和保存图像和视频，控制鼠标事件和创建跟踪栏
 
@@ -39,7 +39,7 @@ opencv学习笔记
     
     1. 调色板 Trackbar.py
     
-<h3>Core Operations
+<h3>Core Operations</h3>
 
     学习图像的基本操作，如像素编辑，几何变换，代码优化，一些数学工具等。
     
