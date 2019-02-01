@@ -6,6 +6,8 @@ opencv学习笔记
 :grey_exclamation:python版本: 3.6  
 :grey_exclamation:opencv版本: 3.4.4.19
 
+:memo: 建议浏览器安装 Octotree 查看
+
 <h3>Gui Features in OpenCV</h3>
 
     如何显示和保存图像和视频，控制鼠标事件和创建跟踪栏
