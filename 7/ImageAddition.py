@@ -22,5 +22,12 @@ y = np.uint8([10])
 # 250+10 = 260 => 255
 print( cv2.add(x,y) )
 
+# 250+10 = 260 % 256 = 4
 print( x+y )
+
+"""
+It will be more visible when you add two images. OpenCV function will provide a better result. So always better stick to OpenCV functions.
+
+当您添加两个图像时，它将更加可见。OpenCV函数会提供更好的结果。所以最好还是用OpenCV函数。
+"""
 
