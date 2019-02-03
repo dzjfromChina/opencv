@@ -51,7 +51,10 @@ opencv学习笔记
     2. 访问图片属性 AccessingImageProperties.py  
     3. ROI ImageROI.py
     4. 设置边框 MakingBordersForImagesPadding.py
+
 7. 算术运算的图像
+
+    1. 图片相加 ImageAddition.py 
 8. 性能测量与改进技术
 
 
