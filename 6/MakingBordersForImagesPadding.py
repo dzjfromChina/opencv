@@ -35,7 +35,12 @@ reflect101 = cv2.copyMakeBorder(img1, 10, 10, 10, 10, cv2.BORDER_REFLECT_101)
 wrap = cv2.copyMakeBorder(img1, 10, 10, 10, 10, cv2.BORDER_WRAP)
 constant = cv2.copyMakeBorder(img1, 10, 10, 10, 10, cv2.BORDER_CONSTANT, value=BLUE)
 
+# 原图
+# 23的意思就是 2行3列 6张图  1是第一张图  Z字型的顺序  imshow显示图片  title取标题
+# https://blog.csdn.net/sunshihua12829/article/details/52786144  关于subplot的用法
 plt.subplot(231), plt.imshow(img1, 'gray'), plt.title('ORIGINAL')
+
+# 处理后
 plt.subplot(232), plt.imshow(replicate, 'gray'), plt.title('REPLICATE')
 plt.subplot(233), plt.imshow(reflect, 'gray'), plt.title('REFLECT')
 plt.subplot(234), plt.imshow(reflect101, 'gray'), plt.title('REFLECT_101')
