@@ -55,6 +55,7 @@ opencv学习笔记
 7. 算术运算的图像
 
     1. 图片相加 ImageAddition.py 
+    2. 图片融合 ImageBlending.py 
 8. 性能测量与改进技术
 
 
