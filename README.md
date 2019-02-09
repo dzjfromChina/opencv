@@ -68,4 +68,28 @@ opencv学习笔记
     1. 使用OpenCV测量性能 MeasuringPerformanceWithOpenCV.py
     2. OpenCV中的默认优化 DefaultOptimizationInOpenCV.py
     
+<h3>Image Processing in OpenCV</h3>
+
+    OpenCV中的图像处理
+    
+9. 改变颜色
+
+    1.改变颜色空间 ChangingColorSpace.py  
+    
+10. 图像的几何变换
+11. 图像二值化
+12. 平滑图像
+13. 转变形态
+14. 梯度
+15. 边缘检测
+16. 图像金字塔
+17. OpenCV的轮廓
+18. 直方图
+19. OpenCV中的图像变换
+20. 模板匹配
+21. 霍夫线变换
+22. 霍夫圆形转换
+23. 利用分水岭算法进行图像分割
+24. 利用GrabCut算法进行交互式前景提取
+    
 
