@@ -80,7 +80,7 @@ opencv学习笔记
 10. 图像的几何变换
     
     1. 缩放 Scaling.py
-    2. 
+    2. 平移 Translation.py 
     
 11. 图像二值化
 12. 平滑图像
