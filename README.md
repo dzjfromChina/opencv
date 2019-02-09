@@ -74,7 +74,8 @@ opencv学习笔记
     
 9. 改变颜色
 
-    1.改变颜色空间 ChangingColorSpace.py  
+    1. 改变颜色空间 ChangingColorSpace.py
+    2. 物体追踪 ObjectTracking.py
     
 10. 图像的几何变换
 11. 图像二值化
