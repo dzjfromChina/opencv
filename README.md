@@ -5,6 +5,8 @@ opencv学习笔记
 
 :grey_exclamation:python版本: 3.6  
 :grey_exclamation:opencv版本: 3.4.4.19
+:grey_exclamation:numpy版本: 1.15.1
+:grey_exclamation:matplotlib版本: 3.0.2
 
 :memo: 建议浏览器安装 Octotree 查看
 
@@ -55,7 +57,10 @@ opencv学习笔记
 7. 算术运算的图像
 
     1. 图片相加 ImageAddition.py 
-    2. 图片融合 ImageBlending.py 
+    2. 图片融合 ImageBlending.py
+    3. 位运算 BitwiseOperations.py
+    
 8. 性能测量与改进技术
-
+    
+    
 
