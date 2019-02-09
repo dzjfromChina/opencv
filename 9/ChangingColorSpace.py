@@ -13,6 +13,15 @@ OpenCV中有150多种颜色空间转换方法。但是我们将只研究两种�
 对于颜色转换，我们使用函数cv2.cvtColor(输入图像，标志)其中标志决定转换的类型。
 对于BGR灰度转换，我们使用标志cv2.BGR2GRAY颜色。
 类似地，对于BGR HSV，我们使用标志cv2。BGR2HSV颜色。要获得其他标志，只需在Python终端中运行以下命令
+
+
+For HSV, Hue range is [0,179], Saturation range is [0,255] and Value range is [0,255]. Different softwares use different scales. So if you are comparing OpenCV values with them, you need to normalize these ranges.
+
+HSV的色相范围为[0,179]，饱和度范围为[0,255]，值范围为[0,255]。
+不同的软件使用不同的规模。如果你要比较OpenCV值和它们，你需要标准化这些范围。
+
+
+HSV： https://baike.baidu.com/item/HSV/547122
 """
 
 import cv2
