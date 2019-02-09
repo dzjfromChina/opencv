@@ -4,9 +4,9 @@ opencv学习笔记
 官网：https://docs.opencv.org/3.3.0/d6/d00/tutorial_py_root.html
 
 :grey_exclamation:python版本: 3.6  
-:grey_exclamation:opencv版本: 3.4.4.19
-:grey_exclamation:numpy版本: 1.15.1
-:grey_exclamation:matplotlib版本: 3.0.2
+:memo:opencv版本: 3.4.4.19
+:memo:numpy版本: 1.15.1
+:memo:matplotlib版本: 3.0.2
 
 :memo: 建议浏览器安装 Octotree 查看
 
