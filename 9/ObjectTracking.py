@@ -65,3 +65,12 @@ while(1):
         break
 
 cv2.destroyAllWindows()
+
+
+"""
+There are some noises in the image. We will see how to remove them in later chapters. This is the simplest method in object tracking. Once you learn functions of contours, you can do plenty of things like find centroid of this object and use it to track the object, draw diagrams just by moving your hand in front of camera and many other funny stuffs.
+
+图像中有一些杂音。我们将在后面的章节中看到如何删除它们。这是物体跟踪中最简单的方法。一旦你学会了等高线的函数，你可以做很多事情，
+比如找到这个物体的质心，用它来跟踪这个物体，仅仅通过在相机前移动你的手来画图表，还有很多其他有趣的事情。
+"""
+
