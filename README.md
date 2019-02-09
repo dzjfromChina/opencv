@@ -65,5 +65,7 @@ opencv学习笔记
     
 8. 性能测量与改进技术
     
+    1. 使用OpenCV测量性能 MeasuringPerformanceWithOpenCV.py
+    2. OpenCV中的默认优化 DefaultOptimizationInOpenCV.py
     
 
