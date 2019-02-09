@@ -81,7 +81,9 @@ opencv学习笔记
     
     1. 缩放 Scaling.py
     2. 平移 Translation.py 
-    3. 旋转 Rotation.py 
+    3. 旋转 Rotation.py
+    4. 仿射变换 AffineTransformation.py
+    5. 透视 PerspectiveTransformation.py
     
 11. 图像二值化
 12. 平滑图像
